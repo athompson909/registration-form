@@ -1,0 +1,51 @@
+body {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-size: 56px;
+  font-family: 'Francois One', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/*.main-column div {
+  display: none;
+}*/
+
+/*div #form-area {
+  display: none;
+}*/
+
+/*div #user-input {
+  display: none;
+}*/
+
+h2 {
+  font-size: 32px;
+  font-family: 'Francois One', sans-serif;
+}
+
+.row p {
+  line-height: 16px;
+  height: 16px;
+  margin: 0 0 10px;
+}
+
+.row input {
+  vertical-align: top;
+  line-height: 16px;
+  height: 20px;
+  margin: 0 0 6px;
+}
+
+.main-column {
+  background-color: #cccccc;
+  min-height: 1000px;
+}
+
+#submit-button {
+  margin-left: 160px;
+  width: 180px;
+}
