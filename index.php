@@ -84,7 +84,7 @@ function test_input($data) {
        <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
 
           <div class="row">
-            <div class="col-sm-3">
+            <div class="col-sm-3" id="left-side">
 
               <p>First Name: </p>
               <p>Last Name: </p>

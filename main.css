@@ -10,6 +10,11 @@ h1 {
   padding: 0;
 }
 
+#left-side {
+  text-align: right;
+}
+
+
 /*.main-column div {
   display: none;
 }*/
